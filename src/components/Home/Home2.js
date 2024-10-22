@@ -19,36 +19,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I actively seek professional development opportunities to enhance my skills in CAD design and robotics, 
+              ensuring I stay at the forefront of industry advancements, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />My major strengths lies within areas like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> CAD and Simulations, Mobile Robotics, C and PLC Programming and Pneumatics. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of interest are developing new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">Robotics and Automation Technologies</b> and
+                also in areas related to&nbsp;
+                <b className="purple">Sustainable Manufacturing.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I also apply my passion for developing solutions 
+               using <b className="purple">Arduino</b> and
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+               <b className="purple">Embedded Systems</b>
               </i>
-              &nbsp; like
+              &nbsp; along with 
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">3D Printing Technology</b>
+              </i> 
+              like 
+              <i>
+                <b className="purple">SolidWorks and Fusion360.</b>
               </i>
             </p>
           </Col>
@@ -67,7 +66,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Devvv20"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://ie.linkedin.com/in/dev-bhagat-593b45222"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +96,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/devvv.20/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
