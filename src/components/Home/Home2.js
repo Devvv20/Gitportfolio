@@ -16,15 +16,15 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="orange"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
               I actively seek professional development opportunities to enhance my skills in CAD design and robotics, 
-              ensuring I stay at the forefront of industry advancements, I think… 🤷‍♂️
+              ensuring I stay at the forefront of industry advancements.
               <br />
               <br />My major strengths lies within areas like
               <i>
-                <b className="purple"> CAD and Simulations, Mobile Robotics, C and PLC Programming and Pneumatics. </b>
+                <b className="orange"> CAD and Simulations, Mobile Robotics, C++ and PLC Programming and Pneumatics. </b>
               </i>
               <br />
               <br />
@@ -39,15 +39,15 @@ function Home2() {
               Whenever possible, I also apply my passion for developing solutions 
                using <b className="purple">Arduino</b> and
               <i>
-               <b className="purple">Embedded Systems</b>
+               <b className="purple"> Embedded Systems</b>
               </i>
               &nbsp; along with 
               <i>
-                <b className="purple">3D Printing Technology</b>
+                <b className="purple"> 3D Printing Technology</b>
               </i> 
               like 
               <i>
-                <b className="purple">SolidWorks and Fusion360.</b>
+                <b className="purple"> SolidWorks and Fusion360.</b>
               </i>
             </p>
           </Col>
